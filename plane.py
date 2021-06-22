@@ -1,4 +1,3 @@
-# plane12 使用超级子弹
 import pygame
 import sys
 import traceback
